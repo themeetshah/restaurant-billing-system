@@ -28,7 +28,6 @@ A Java **console** application that simulates a food ordering and billing system
 
 
 ## ▶️ How to Run
-
 1. **Compile** the project:
    ```
    javac BillingSystem.java
@@ -50,7 +49,7 @@ A Java **console** application that simulates a food ordering and billing system
 
     - Receive your receipt at the end
 
-### 🧍 Customer Flow
+## 🧍 Customer Flow
 1. View the menu
 
 2. Select number of items to order
@@ -67,7 +66,7 @@ A Java **console** application that simulates a food ordering and billing system
 
 6. View receipt with order summary and payment status
 
-### 💳 Payment Validation
+## 💳 Payment Validation
 - Card Payment requires:
 
     - 16-digit numeric card number
